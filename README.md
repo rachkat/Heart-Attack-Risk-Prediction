@@ -12,7 +12,7 @@ It also includes a **portfolio-ready PDF** for a related analytics project: pred
   - Defining simple helper functions (`std`, `tellme`)
   - Saving intermediate objects to `data/Labs.RData`
 - `data/` — place your raw lab files here (see `data/README.md`)
-- `docs/Second_Heart_Attack_Risk_Analysis.pdf` — your project PDF (included for portfolio use)
+- `docs/Second_Heart_Attack_Risk_Analysis.pdf` — your project PDF
 
 ## How to Run
 1. Place `lab1_01.txt` and `lab1_02.txt` in the `data/` folder.
