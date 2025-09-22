@@ -11,7 +11,6 @@ It also includes a **PDF** for a related analytics project: predicting second he
   - Working with vectors, factors, lists, matrices, and tables
   - Defining simple helper functions (`std`, `tellme`)
   - Saving intermediate objects to `data/Labs.RData`
-- `data/` — place your raw lab files here (see `data/README.md`)
 - `docs/Second_Heart_Attack_Risk_Analysis.pdf` — PDF
 
 ## How to Run
