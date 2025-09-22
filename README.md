@@ -1,7 +1,7 @@
 # R Lab 1: Data Structures & EDA (Reproducible Script)
 
 This repository converts an interactive R console transcript into a **clean, runnable script** that demonstrates core R skills and exploratory data analysis (EDA).
-It also includes a **portfolio-ready PDF** for a related analytics project: predicting second heart attack risk.
+It also includes a **PDF** for a related analytics project: predicting second heart attack risk.
 
 ## What's Inside
 - `lab1_analysis.R` — cleaned and commented R script covering:
