@@ -12,7 +12,7 @@ It also includes a **PDF** for a related analytics project: predicting second he
   - Defining simple helper functions (`std`, `tellme`)
   - Saving intermediate objects to `data/Labs.RData`
 - `data/` — place your raw lab files here (see `data/README.md`)
-- `docs/Second_Heart_Attack_Risk_Analysis.pdf` — your project PDF
+- `docs/Second_Heart_Attack_Risk_Analysis.pdf` — PDF
 
 ## How to Run
 1. Place `lab1_01.txt` and `lab1_02.txt` in the `data/` folder.
